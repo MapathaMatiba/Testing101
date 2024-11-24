@@ -1,0 +1,8 @@
+pandas
+streamlit
+matplotlib
+seaborn
+plotly
+requests
+beautifulsoup4
+xlsxwriter
