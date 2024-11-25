@@ -778,12 +778,12 @@ def main():
     # Arrange profiles in columns
         profiles = [
         {"name": "Shaun Mapatha", "role": "Data Engineer", "email": "shaun.mapatha@gmail.com", "image": "1709048398610.jpeg"},
-        {"name": "Olwethu Zama", "role": "Data Engineer", "email": "khwezizama@gmail.com", "image": None},
-        {"name": "Masalesa Britney", "role": "Data Scientist", "email": "mmetjabritney@gmail.com", "image": None},
-        {"name": "Refilwe Masapu", "role": "Data Scientist", "email": "skymasapu12@gmail.com", "image": None},
-        {"name": "Tselane Moeti", "role": "Data Scientist", "email": "tsemoeti24@gmail.com", "image": None},
-        {"name": "Comfort Mphahlele", "role": "Data Scientist", "email": "mphahlelelc02@gmail.com", "image": None},
-        {"name": "Nontobeko Dube", "role": "Data Engineer", "email": "cordydube@gmail.com", "image": None},
+        {"name": "Olwethu Zama", "role": "Data Engineer", "email": "khwezizama@gmail.com", "image": Zama.jpeg},
+        {"name": "Masalesa Britney", "role": "Data Scientist", "email": "mmetjabritney@gmail.com", "image": Britney.jpeg},
+        {"name": "Refilwe Masapu", "role": "Data Scientist", "email": "skymasapu12@gmail.com", "image": Refilwe.jpeg},
+        {"name": "Tselane Moeti", "role": "Data Scientist", "email": "tsemoeti24@gmail.com", "image": Tselane.jpeg},
+        {"name": "Comfort Mphahlele", "role": "Data Scientist", "email": "mphahlelelc02@gmail.com", "image": Comfort.jpeg},
+        {"name": "Nontobeko Dube", "role": "Data Engineer", "email": "cordydube@gmail.com", "image": Nonto.jpeg},
     ]
 
     # Define the layout using columns
